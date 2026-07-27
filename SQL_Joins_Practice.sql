@@ -1,3 +1,26 @@
+/*
+====================================================
+Project: SQL Joins Practice
+Author: Mary Iyanuoluwa Amos
+Dataset: Parks and Recreation
+
+Description:
+This project contains 30 SQL practice questions completed
+while learning SQL using MySQL.
+
+Topics Covered:
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- SELF JOIN
+- Multiple Table Joins
+- Aggregate Functions
+- GROUP BY
+- HAVING
+- Subqueries
+====================================================
+*/
+
 -- 1. Return the first name, last name, age, and salary of all employees.
 
 select a.first_name, a.last_name, age, salary
