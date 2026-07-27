@@ -5,8 +5,10 @@ Author: Mary Iyanuoluwa Amos
 Dataset: Parks and Recreation
 
 Description:
-This project contains 30 SQL practice questions completed
-while learning SQL using MySQL.
+Description:
+This project contains 30 SQL practice questions I completed while learning SQL with MySQL. 
+The questions cover different types of joins, aggregate functions, subqueries, 
+and multi-table queries using the Parks and Recreation dataset.
 
 Topics Covered:
 - INNER JOIN
